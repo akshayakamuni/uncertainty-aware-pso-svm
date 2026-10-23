@@ -55,3 +55,13 @@
 3. Define the inner-CV loss and uncertainty penalty.
 4. Define the PSO search bounds and computational budget.
 5. Fix the evaluation protocol before comparing methods.
+
+## Diabetes Dataset Provenance
+
+- The file schema matches the commonly used Pima Indians Diabetes dataset.
+- The file contains 768 rows, eight predictors, and one binary target.
+- The column descriptions match published descriptions of this dataset.
+- Exact download URL and license for the local copy remain unverified.
+- Original research reference: Smith et al. (1988), "Using the ADAP
+  learning algorithm to forecast the onset of diabetes mellitus."
+- Zero-valued measurements require a documented preprocessing policy.
